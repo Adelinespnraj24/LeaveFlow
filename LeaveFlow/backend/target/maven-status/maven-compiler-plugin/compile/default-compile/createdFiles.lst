@@ -1,0 +1,8 @@
+com\leaveflow\LeaveRequestInput.class
+com\leaveflow\LeaveFlowApplication.class
+com\leaveflow\LeaveRequestController.class
+com\leaveflow\LeaveRequestRepository.class
+com\leaveflow\LeaveType.class
+com\leaveflow\LeaveRequest.class
+com\leaveflow\LeaveStatus.class
+com\leaveflow\LeaveRequestController$StatusInput.class
