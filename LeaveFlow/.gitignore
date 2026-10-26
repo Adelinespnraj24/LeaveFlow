@@ -1,0 +1,13 @@
+# Node dependencies (Angular)
+**/node_modules/
+**/dist/
+**/.angular/
+
+# Maven build output (Spring Boot)
+**/target/
+**.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
